@@ -1,0 +1,1 @@
+Il Premio Turing 2019 è stato assegnato a Yoshua Bengio, Geoffrey Hinton e Yann LeCun per le innovazioni concettuali e ingegneristiche che hanno reso le reti neurali profonde un componente critico per il calcolo
