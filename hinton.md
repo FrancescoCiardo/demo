@@ -1,0 +1,5 @@
+**Geoffrey Everest Hinton**
+
+Il Premio Turing 2019 è stato assegnato a Yoshua Bengio, Geoffrey Hinton e Yann LeCun per le innovazioni concettuali e ingegneristiche che hanno reso le reti neurali profonde un componente critico per il calcolo
+
+When Geoffrey Everest Hinton decided to study science he was following in the tradition of ancestors such as George Boole, the Victorian logician whose work underpins the study of computer science and probability. Geoffrey’s great grandfather, the mathematician and bigamist Charles Hinton, coined the word “tesseract” and popularized the idea of higher dimensions, while his father, Howard Everest Hinton, was a distinguished entomologist. Their shared middle name, Everest, celebrates a relative after whom the mountain was also named (to commemorate his service as Surveyor General of India).
